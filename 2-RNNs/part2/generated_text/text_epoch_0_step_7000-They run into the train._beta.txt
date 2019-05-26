@@ -1,0 +1,28 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 0
+Step: 7000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: They run into the train._beta
+-------------------------
+They run into the train.
+
+"I say, let us say that I don't understand it was not the peasants, and the reason who was in the face where they were the conditions of the party of the footman. He should have to be the heart and realized in the same as the fact that he could not help it, and he was standing beside her. He was in a district to answer.
+
+"I want to say that he was not a more shaking of his picture, and consequently that the bridegroom was sitting in the same way to his face.
+
+"The children are a stopping for him."
+
+"Well, and there's no agreement that I didn't know what was it that it was so but that we see no familiar for a minute, and still more for your son, and you know nothing," said the old man, and as he was not at a shot of the first state of his hat and with a dishates and arrival, and at the sight of his head was made his brother's voice, the sound of his shoulders, and holding his substance, and he was going to disconcert him for everything that she heard the bedroom.
+
+"Oh, no!" she said to herself, smiling.
+
+"I should say that I'm a tall man, and how sorry I will take the first time that he was going to be the thought to be taken by the stars of the marsh. But the most little engine was a man who had been the same thing so much the more seemed to be sure, when a short caused he was not a mistake of a short and books, and the staircase had grown up and down the state of his face towards the bailiff, who was saying that it was they were still at her behaved the same distance and said that he had never had that she was standing in the house.
+
+"Well, we must live in the professor of the laborers were all the same thing that I'm afraid that I must have the first time I shall see the sun, you know. It's a man who might come to a bit, and so I can't see that I know, I pray to him, and I shall be brought to go into the stairs, and I love you, and he was in a minute, my dear, and I want to do, and would be so given for the strain of the nobleman and the most unpleasant condition

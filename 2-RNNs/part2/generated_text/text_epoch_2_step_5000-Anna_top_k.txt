@@ -1,0 +1,34 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 2
+Step: 5000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: Anna_top_k
+-------------------------
+Anna whether I loved anything. If
+she have said to her:
+
+"Here a walk of an unlucky rubors, with the man as firmly so grateful for your confidence to you," said Stepan Arkadyevitch, getting up, and they were
+silent. The precautions of dinner, he will now look at your soul, and then a note! Everyone, you see, that I have never had time to tell you."
+
+"No, I'm not going to drink with possible?" he said. "I should have to do. But I was not a barrel of cablic feelings.
+
+In the house was no talk, and looking about the revolver, held a gentleman with a pearful hair with her hands and bowed his head. "I shall be distressed for, wait a bit and gave me some books, that's careless tone," said Stepan Arkadyevitch. "It's true, it's over."
+
+They were sitting at her head.
+
+"This is a principle of fifty. A harden, and I am annihilated, I see that I can do. Why do you think then?" he answered, gazing at the prince to a gentleman who had come in Frou-Frou, she smiled. "Ne the land with my remove, and always won't. That idea that's what you will, but I women from you, and she has deceated me of as taking her eyes and struggle of saying anything of that sort of revision.
+
+Washed and carried all it over with a sign of little girl as though in spite of the direct and some length, a reworder drove the strength to bear it."
+
+"A complex and insoluble weakness would not be able to be called for. But all I said I have no sort of me." And he pronounced this not because the irpltastes will ender in our hearts. They sent for him. I always
+loved him as yellow-peeristen. And I'll catch them. You see your appearance of the wind." And in spite of that, they were all little crief, and the prince with his brother.
+
+"What is the meaning of it. The doctor, the money was general as the most important papers from which the peasants were flying about the drawing room. She had not yet finished speaking of the revelre qualifications for the future and companion and the familiar and number, as though they
+were st

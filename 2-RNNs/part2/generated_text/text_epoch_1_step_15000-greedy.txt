@@ -1,0 +1,14 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 1
+Step: 15000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: greedy
+-------------------------
+he station of the committee was all the while he c

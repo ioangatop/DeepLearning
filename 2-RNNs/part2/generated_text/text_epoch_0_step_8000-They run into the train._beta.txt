@@ -1,0 +1,31 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 0
+Step: 8000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: They run into the train._beta
+-------------------------
+They run into the train. And the steps was a continually insisting on his head, with a smile that she was always at the same time that he had just been talking about the room, he had
+worked the conversation with the same subject, Anna was not discussing, had pulled out the standing of her room, and a man, and the bottom of her love for them. The conversation was not at all the world, the better in the province, and she felt that everything would be at the same time that she had been conscious of her life, the princess put on his brother and the conversation of the trap and the coachman and his head was standing with him by the children, and he was so flowed nothing and still more and more than a child, that he was not a second people. He was not a child. Why, the mother was a perfect hand, the strange minute was a separate face of his wife.
+
+"Yes, I am afraid, or is that a meaning of all the things that you can go away from abroad to do, there's something such a fool of forgiveness," said Stepan Arkadyevitch, with a smile of her lips to the end of the room, and he saw his laughter and her mother and the conversation with him. "What do you say to him?"
+
+"Oh, I shall always be no sort of mind and sale, and what are you going to be done?"
+
+"Ah, how is your news, I shall be done in the same evening? You see if I was more than once to the liver in the conversation that had been in full strangers. But there's no one in the house, and I shall see me to see how so much pleasure! I ought to see you, and I should have to go on without loving her. He was at the door and distributed him.
+
+"Yes, how am I to say to him? What am I to say that this was the least of your position?" he said, steading her hand.
+
+"You give for your arrivil. Of course. I should think of it."
+
+"Yes, I shall be done?"
+
+"I'm going to the stand," she said, with a smile.
+
+"She's so far from the contrary, I can't forgive me, that's not the first place. I don't know what I shall go and see your wife, and I will come to him. If you wan

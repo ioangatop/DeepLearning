@@ -1,0 +1,24 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 0
+Step: 5000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: Anna_beta
+-------------------------
+Anna Arkadyevna had seen her own and at
+the same time for the first time for her face that he should not help like this, and he saw him her brother-in-law, and the other country, and he went on, and he was at once, and the fields and district council late, and that he was so awful to her, and was sitting down again straight to his wife and her children he had taken the steps which sounded and saw what was so convinced."
+
+"Oh, no! I'm not to blame for the contrary, and I don't receive the artist, and I don't understand what he had not seen her and so in the story, when you're not disposing the doctor and Alexey Alexandrovitch have nothing to make a guilty and best management of my position?" he said, "I must go to put him to despise you to love me," she said, sitting down the world, and she could not help seeing and he presented the peasants who had always been
+carrying the door after him.
+
+"Yes, yes," he said to the porter's wife. "Then I don't remember the face of the terrace, and for my sister's pleasure, and then I don't believe it was only the people who did not say to her. The only thing I don't know in his proposed to the advantages of the princess, and I'm afraid it was a divorce, that's not a man, and we must be at peace."
+
+"I should think I see, you know all the world!" said Stepan Arkadyevitch, "the children were not a man who had a conversation promised the moment when he was thinking, and he thought the same side of the conditions of the steps she had a string to such a discussion of his own hands, and he was not afraid of her face, and that the same way he had seen him as though a long while in the staircase was disappeared, and he felt that the princess said to her, and still more than the conversation with the door. "Well, and how do you say to her, but you didn't know how I do let us have a woman to it. I don't know what I can do all the world for the passion to you," said Anna, recognizing her when he went to her. "What do you say to her."
+
+"What do you 

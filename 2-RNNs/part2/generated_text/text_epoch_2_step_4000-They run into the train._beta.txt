@@ -1,0 +1,44 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 2
+Step: 4000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: They run into the train._beta
+-------------------------
+They run into the train.
+
+"What do you say, she's not a man, but there was nothing for himself! What is the matter with you?" said Sergey Ivanovitch, noticing the words. "I was just telling a new spiritual property, which would come of food in the same position as a steps of the trust in the letter.
+
+She said in a whisper, "and what are you thinking, that's so?" he asked, pointing to the house of her face. She recalled the peasant women, and the
+story of the world will be too awful! You didn't look at it? I don't understand," said Sergey Ivanovitch, for the first time in the conversation, and she walked to the door, but he said to himself, and went out of the
+room. "Well, what do you say, I am not a word of what I have had to see you," he said, "but I can't help it."
+
+"Yes, I was almost the table, and she looked at him with a smile.
+
+"Yes, but what is the matter of nothing I want to say to you," said the prince, taking the table of Vronsky's health. But then the princess had spoken of his carriage where the baby was not really happy and consented for the new sense of change in her face.
+
+"She's very interesting," said Levin.
+
+It was a splendid set offices were defending the conversation, and when he saw them in the figure of Stepan Arkadyevitch.
+
+"You don't know whether it was that the man who has spoken about the land too. And then she would have gone on for the first time in his heart, but in the dining room, where he was a rest for the first time in the country.
+
+"The course of the dinner was a matter of no consequence to me. And I don't like the service, and one must get on together to the people."
+
+"No, I'm not speaking."
+
+"Yes, I have never seen a decisive answer."
+
+"What a pity you want to do something. I am going away."
+
+"You don't want to leave me a favorite pursuit of my position."
+
+"What! was it for? what for?" he thought, as he said that what he had said to herself that he was made to keep it up.
+
+"No, I didn't know it that my brother Nikolay's letter?" he said with a smile, pas

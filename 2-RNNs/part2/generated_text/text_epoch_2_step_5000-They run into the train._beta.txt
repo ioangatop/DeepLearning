@@ -1,0 +1,40 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 2
+Step: 5000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: They run into the train._beta
+-------------------------
+They run into the train. She brought him to the drawing room.
+
+"What is it? Count Vronsky, that is the matter with you. And I'm very glad to see you, and of all this time," said the prince.
+
+"And I, by God!" she said, and she took the marsh and flowers and good-humored face, her head, looking at her.
+
+"Alexey Alexandrovitch! I know you are to blame."
+
+"If you care for them. I was trying to make an expenditure to me, you will be completely opposed to you."
+
+"Oh, well, anyway, I don't understand a few words to the princess.
+
+There was a great merit in the district council--the memory of that man who had been admiring to an invalid cobled for something, but he had to go to the most terrible and was decided that she was not a man, who had
+been to the street and stopped at the front entrance of the bedroom. The day after the departure which would come in again. She thought of the scenes of his intention he was not angry with her. She felt that the husband had not been feeling
+that the complex child or not heard all the more intimate friends, and the princess was so nice under a sense of her friend abroad.
+
+"I sent to justify the deceitfulness of your family, and I will be here to do."
+
+"Oh, we are at once detected in our dreary, but I was too much for me, and nothing more." He painted still more and more miserable to him a smile of repose, and staggering of special points in the way of the subject, and that he could not help seeing that the children were not a personal interests. The memory of the bridegroom's child, he went on with the tender and shouted
+to him. "It was not a minute before! But he has no need to say ... I must control myself, and I shall be in time for the grass, and the thought of himself, and knows that I am speaking of the world. I
+don't know the same as they promptly oblivery for him," she said, "that he did not answer.
+
+"We must go away from yourself."
+
+"In an outsiders whom he liked to see you, I see that I'm not going."
+
+"I don't understand it, you know, there's no proce

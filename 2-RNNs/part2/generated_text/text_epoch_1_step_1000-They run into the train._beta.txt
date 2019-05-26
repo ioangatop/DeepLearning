@@ -1,0 +1,26 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 1
+Step: 1000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: They run into the train._beta
+-------------------------
+They run into the train.
+
+"I see that, I only take me a little conversation," said Vronsky, "and he was at an end to the terrace and the actual paint which he had worried her from a peasant from Moscow.
+
+"Alexey Alexandrovitch went on as before. He saw that he was not simply to have a defined conversation with the fresh course of Stepan Arkadyevitch and Vronsky with a smile, gazing at his face and sat down to the top of the crown and bowed his head, she felt it all to him for nothing but long ago, and that he would not have no experiment, and that he was particularly good-hearted and at the same time he went back to her relations with him. He was sitting on the real of the house, and she could not help smiling. "I don't understand!" said Stepan Arkadyevitch, who was buy a week should go on with the same second two or three days. He was at once reckoning on an answer to the most cheerful frame of mind. And then the spring he did not know what to say. He was at once discussion from him. He was standing at her with a smile, and she went on talking to him.
+
+Levin was sitting on the road. He was standing at the table, and he went on half an hour before, and he would have to say to him. He tried to avoid meeting him, and the confusion of the moment when he was staying through a piece of people, and that the idea of the peasants got up and took her hand with a smile.
+
+"Yes, but we have a faint man who has come to do with Anna, and I'm at a great deal to see you," said Alexey Alexandrovitch, "but I can't and understand that I'm a paying thing. But the doctor said that I was charming! So you're losing some sort of man, and that I'm not afraid of something for me is to say. But if I were the same. You do not agree with my son."
+
+"Why do you ask me to see you," said Levin, and he was in a good humor directly with his wife and a stiff and the baby, and she was at once reply, and when he was at the same time he was thinking of this and he was aware of her position and of something strange to her.
+
+"I am

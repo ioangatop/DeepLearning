@@ -1,0 +1,35 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 1
+Step: 12000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: Anna_top_k
+-------------------------
+Anna took the bedroom.
+
+"What do you think?"
+
+"Yes; but then I have nothing to say."
+
+"The court you can go, you're going to be brought out and then we must prevent him."
+
+"Oh, well, anyway, I should say," Alexey Alexander, to which Anna had never seen a parent from Moscow, and he was afraid to see in the feeling, and she could herself share at once a defective case impossible for the love, that if he had been at the lectern, though she were displeased well and running away from the steward, who, at the first meetion was not a miserable merchants who were investigated, and all the carriage roofs and pay he felt himself on his eyes.
+
+"I can't act them she supposed that I have so much the whole of the house. The cut grass, the silence that's exquisite! Well, then what do you think about that?" he asked.
+
+"The doctor had gone away, but it's being setting on muscles and to an idea which seemed to her that strict energy church!" she thought, after drinking to her afterwards: "Why, aren't there!" Levin repeated. "Well, anyway, he's the same," thought Vronsky, stretching a strange fields. And they had not been the last conscience. That day he had no evertthement or being made for the little consideration. She was not the same as the opposite party, and he was imploring with a thrown off, when the prince and all
+his father still more.
+
+"Well, what do you say, Kostya, that's another question," he added, seeing his words, had promised the gate, and that in spite of his solitude nor extremely bodious paying happiness. She dreaded that she loved her, and that it was impossible to remain and drawing a coundry toward with something. If he could have been better."
+
+And he began smiling: "How can you hear about yourself. With him?" he said.
+
+"It's so much that I am much at a loss which he has defected it, and so on. Whose shriek, uncomfroined,--death," she whispered. "It would be done? That's all I have sent for? What is it? That's the town," said Anna, reddening.
+
+"I always look do not

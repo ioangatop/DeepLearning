@@ -1,0 +1,29 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 1
+Step: 6000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: They run into the train._beta
+-------------------------
+They run into the train. Anna was already
+something that all the morning he was standing for the sick man at the end. And she did not even think of herself. He was silent for his face that he had not been left by a strange feeling of things that was continually skated out, but were sitting with a glad she had said to her, she dropped her head and smoothed away from the stove.
+
+"Please, please," said Anna, looking at him with a smile.
+
+She saw that he was in his study, and was glad of it. He was thinking of the subject that had been struck by the same, which was so conscious of his visitors and the carpet and his strange terms with the peasants, who had been conscientiously an interest in the department of the discovery of his own family. He was incapable of deign and old sense of his heart was continually suffering when he was not thinking of himself. He felt as though he were a friend of her, and again she felt that the sense of her own and the name of the provinces that all was the more suitable and simple and soled for his own infidelity. And the sharp was speaking to the most fundamental idea that he had to go to the general good humor, was the only thing that had been started by a shaking voice round the second character of the professor, and the same distressed by the ballroom and said to him.
+
+"I shall say something to her. He was very interesting to him.
+
+"I'll send you a nine part of the party and the mare was putting it on together, and I'm glad you were going to see her."
+
+"My God! my God! what have I done? Meanwhile you're definiteness."
+
+"I cannot be delighted! I am afraid of her in any subject. And he's a very nice fellow, and I am not afraid of that?" he said, smiling.
+
+"I know him. To be so awful that you are reproachfully over the lines of the pavilion. You wouldn't believe that you're trying to control myself, and there was nothing to make of a chance for my sister's and bagger on a little birds away from the elections and bread, and they were quite uneasy for the work tha

@@ -1,0 +1,16 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 3
+Step: 1000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: 0.5
+-------------------------
+ect. "We'll be now to her a hopeless case..."
+
+"Ye

@@ -1,0 +1,19 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 0
+Step: 1000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: Anna_beta
+-------------------------
+Anna had been so many conversation of the stand and my hands had been answered to her husband, and was happened and could not
+see her husband that she was not and the same and glanced and sold her face, and the distracter at his wife had been anyone to recolled him. The hand was a near in the
+staping of the staining the still of the reconciled and her huming and suchle of his such and say to the princess every and that his ranest and reganded to the better with her head and the standing.... It's a minute. Why all the content of him. The reconce of man be all the mother from the means, the back you that it was so for a woman to still me, when you that the feeling by the going up at the doctor of imporsant the conversation of the minute." "You can't meaning the believer the more. It was not the best face of the little and excence of the menty, and the laborer of for my conversation with a sighter of the thought and the feeling the first to her husband had some face. He could not go to his head before him to the room. "You are you must was the princess. The peasant came in the conversation of regretted to him to him to her hand of the first present. He had not intore conversation and restent and a sew and drive the complete have been to come out of the conversation had
+been dinner from the meant of the whole, and he could not sunched him. And the door better the same of his face of the stall, she was not a great in the position of his life of the different and discuping and could not be and her again and conceated to me in the face. "I understand the find of the man of the moment because on his face.
+
+"Where you will the most person to were to go down, and the book of the same time you see you to be to me, do you know, it's a walk and with a lost were such the ball was many and mistress the bell, and trying on the bally, and the words of his believer with the sense the rest of his brother had been would be only before him to them marriage the that the came of the princess, 

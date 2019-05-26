@@ -1,0 +1,25 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 0
+Step: 14000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: Anna_beta
+-------------------------
+Anna was followed by the subject as though he were all the feeling of misfortunes, and
+the more he knew beforehand that they were of the strange terms with which they had been continually looking at him.
+
+"Oh, I'm not my dear better," he said, with a smile which always turned with a smile.
+
+"Oh, I don't like to see you, and I consider it's all wrong, that I don't know that it would be no doubt," said Kitty.
+
+"Yes, there's a moment's convenient."
+
+"I have not been able to look at you," he said, feeling that he would have been on the box.
+
+"And there's nothing married, and I'll go to the bed but in the evening. She would have answered that the peasants had been sent to the midwife of her guests and laughter and saw her husband's face, and with a smile that she had more than once more than to the joy of the government clerk, which had been so pleased to look at him, and who had been married life were so strong that his father and horrible and more and more more charitable and worried him, and while he was particularly anxious to come to meet him the agonies of joy to him, and with her brother and his part of the country. He was in love with him. He went up to him. "But there's no one else is in the way of this inevitable doctor's head, and the smile of glad she had to do with their soul, and the servants had been talking about her condition, and felt that he was the first time, and he was pleased to see his wife and the work as she could not be continually put on his soul, and he was making a complete stranger--the whole perfect sincerity were at once began to get away from him, and went to his wife, and he turned to him, and with a smile as he went into the drawing room, which was the only thing that bound him about an electronic work as if he had been talking about him to be so glad of the staircase the steps of the house to the ladies, he saw that the motion of the note that she was already beginning to take part in the conversation with his father, and she glanced at hi

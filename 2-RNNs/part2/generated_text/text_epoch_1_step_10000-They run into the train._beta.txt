@@ -1,0 +1,23 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 1
+Step: 10000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: They run into the train._beta
+-------------------------
+They run into the train. When he saw the footman came in to see him, and
+the time he knew what he was saying, and as soon as he had not the same burning flowers and chairs and snorting at the first place where he had to do with the passage.
+
+"What did you say to him? To be sure, in the country has been driven for all people and all the same..."
+
+"No, I'm not going to say to you," said Stepan Arkadyevitch, and he was afraid of was to be distressed, and that there was a stretch for his own thoughts and the same sort of thing to say, and she was in the same position in which she had been the difficulty of Anna's face. He did not know whether he was so strange that Levin could not prevent his new brother, who had always had the adverabaned he had hitherto been sent for the marshal of the province, who was doing now, and he was so best of himself, this filled his face the same smile that showed that the husband had a fish on his cheeks, she took the blame on his coat, where he met Vronsky that she had already done by some sort of great interest in the passage he was still more and more often in the country and the best of my brother's face, which had indeed at the same time he was to blame for himself, and he was heard in the same party, and the sight of her husband had not come off and his position in which she could not exact for anything, and when he came to see Anna to a stranger, and for the first time when he was convinced that the servants were moving about the room.
+
+"But what is it? I don't know how to meet you," he said, and again he saw that she was dressing about the room and the blood rushed to his brother's and to talk about it. The air was all the while she loved him, he had only just seen in the country, as she had done it.
+
+"I am very glad to see you and they told me to ask with the party at Moscow, when he was the chief part of the picture of Petersburg. I meant to say that he was not at all with her, and all the difficulties of our own children, so much that I shall certainly 

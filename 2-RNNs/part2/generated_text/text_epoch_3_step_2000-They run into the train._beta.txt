@@ -1,0 +1,37 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 3
+Step: 2000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: They run into the train._beta
+-------------------------
+They run into the train.
+
+It was only when the doctor had taken up the rooms of the party on her lips. He tried to restrain his servant coming out to meet him, and still stroking his head and smiled. She got up and pulled out the bears, and by her husband's wife, and only the
+others have sent him a day of him. But for the first time experienced a feeling for them. He was a gentleman who had been put into the country. In spite of the smart maid that they were the
+first time. The prince had taken up the scythe after the house, he felt that the share of the land he had been sent to the house.
+
+"We will take me for me, and I don't know what to do."
+
+"Oh, if you don't know why it is the whole afford to me that you may know what to do."
+
+"I cannot be utterly a serious and most of all powerful."
+
+"No, I'm not the strength."
+
+"But I should have to send me a divorce," he said. "I know it's not that, it's a question of existence. You will say to me?" he said, with a smile that she would not have found it all,
+but then the smart-looking peasant who can do nothing but go away," she said, and smiling and glancing at her watch, still
+looking round towards his study, got up and went out of the room and the share of her feelings, and that their life is not striking with you, and I know what she wants.... Well, what do you think about it? I don't like it that you are at such a
+moment."
+
+"All right," said Alexey Alexandrovitch sighed, and he told him that the influence of her eyes the storm-clouds, which he had to wait for her, the lump porter was standing at the door, and saw him she
+pressed his hand. "It's simply that I can't help it. I'm never since the most unpleasant interests. You may like you to give me a divorce," said Stepan Arkadyevitch. "I've been told
+you think that you are attractive to me, and I must tell you about myself. I am myself to be delighted. I want to go away."
+
+Stepan Arkadyevitch was telling him that he had not yet seen him since to take her by the sun, that she was afraid of the sa

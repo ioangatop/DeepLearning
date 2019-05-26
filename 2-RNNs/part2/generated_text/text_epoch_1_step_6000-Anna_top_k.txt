@@ -1,0 +1,25 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 1
+Step: 6000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: Anna_top_k
+-------------------------
+Anna was not talked, and at once
+began to talk to her. Before had been all the three must be so much that had been thrown of assistances and the whole party and a part of a long warmt staff, and was not angry, he felt that she was not at home, he came back to her, and as first acquaintances, when her histed hand, knowing that, in fever of it would have been his mother. His eyes spoiled with the same directed by her son would suppose she was awaiting him, and he had not seen her, was the one thing had been all the meaning of my presence and all past torsels of a man, an invettical persons, by the same thing that was strong the peasants and succeeded in getting something to see him, and white as the most favorable impression, the time to the peasants in which some inevitably repulsion was offensed and happy in his mouth, his face turned towards the door. "I admit that the people won't be a hind-quarters have been presented insulting to angel of anything," she said.
+
+"Where are they through the words, they've said, will you be tomorrow," she said, looking intently at her.
+
+"Why aren't you could think it, but you see, although he was a large terror, and there's no more painful and principle," said Anna, smiling.
+
+"I see through her own thought, but there are so many minutes meaning that it was all the morning the serving speeches that had been put on first of the monks, and wait alone, and what was before to you. You worry about the wind," said Anna, and he would have gone on again, and she wanted to know to enter him those three-boots, and there took place in her house. In the conversation with his brother-in-law to a part of their conversation with him on the previous day before. The world was talking to her.
+
+"I don't understand a few steps for supers?"
+
+"Only you must come to you and to discontent again and tell you. But I know it are impossible to see me?" she thought; "is the tautity of their prive with all his mind. He'll come on works that I love him, but I know a gr

@@ -1,0 +1,36 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 2
+Step: 8000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: Anna_beta
+-------------------------
+Anna Arkadyevna, and he spoke to her and her husband's unhappiness, and had been talking about him, he went on
+with his wife. He did not know whether to go to sleep, and when he was in a considerable
+desires, and the very same thing had been said to him: "And how glad I am!" he said to her husband, she repeated the footman, who came up to him to himself, and he
+clutched at the baggage of the bedroom, and he did not know when he was moving across the end of the room. "It would be
+a perfect goddant," answered Darya Alexandrovna. "We don't know how to carry it in your heart; but I know it's all about."
+
+"And what am I to do? I had been married, then."
+
+"Yes, it's a time to see anything but to live with me."
+
+"Yes, yes," she said, getting up.
+
+"I am very glad of that she was leaning up his mind to a little too much more now to think about it. She felt that he could not have been in the house, and the same state of that she had thought of nothing but a shudter of his own portrait. And in the corridor were she walked to the counting house clerk, that he knew that his position was interrupted by Anna. The countess Lidia Ivanovna had said to him: "I don't know what it is. You see it all end."
+
+"I don't know what it is. You can't imagine what are you defined? Don't be happy, I should be delighted. You're only just painful and dull."
+
+"What did you do it all?"
+
+"I see it must be put down the government. They were much longers in Petersburg today?" he said, smiling, "but I must go to the merchant to six clearly that I did not ask him to see you, and I have nothing to do. Whatever you think that in the country gentleman," said the princess with a smile, laid it on his hands, she dropped her hands, and with a thin brushes on his hands.
+
+"Yes, it's my fault. I say it's a long way to ask Vronsky. I ought to have said to you," said Vronsky, with a brilliant smile.
+
+"I know how I beg you to the sole aim of a sort of propriety. He's opened her lips and without even wondering where there w

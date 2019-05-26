@@ -1,0 +1,36 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 1
+Step: 9000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: They run into the train._top_k
+-------------------------
+They run into the train.
+
+Alexey Alexandrovitch streamed the summer with his former dress.
+
+The end of the cowherds were lowering. He looked once more screaming with emaciated room with his head at the same time as she realized that now his love for them for this remorse at the sportsmen. He was aware of his eyes the disappointments there was something, and had been such clearer and desire to be directed, and he heard his wife. His brother had started.
+
+"We had a good tea. But you mustn't scant him before?...
+It's all only so little to look death," answered Vassily and seriously, and went out to look after him and smiling.
+
+"I should not acquaintance, and I won't give him you and the other, I can, is it polusing for my sight, I can't say it," he said, with the same smile.
+
+"Yes, it's awful! She doesn't expect you! You're all over," he said to himself.
+
+"It's stupid! What do Is you show you?" said Vronsky. "He wants to look nicer and persuasive evil position?" he said, smiling good-humoredly tight of an elbows on a ball.
+
+"I wonder why she was in love with her, and I'm afraid, this matter now it is out of my, since he was telling her to learn his happy manner. And he knew that his father was so simple and easily and uself. He was a favorite doctor and Lidia Ivanovna to go and stop at the door, and the old man to show those words would allow me. I have been surprised at his own disgustion."
+
+"Yes, you've been through, you know! I've not seen it. But you know, in the street," said Varenka.
+"I don't understand anything," thought Vronsky, at old-fashioned, despair. And so it was nothing but the wonder he had said the most unpleasant good nature that he spent the day and took the blame on her head.
+
+"It's nonsense, but I am not standing my misfortune. I am won't mind and can't guess. Yes, you have to speak to you."
+
+"Yes, they are all over again at a table and superior indopropries and always," Vronsky answered calmed in attachment of the summer, or even spoiling the whole of the post that labore

@@ -1,0 +1,40 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 0
+Step: 15000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: Anna_beta
+-------------------------
+Anna does not sleep well?"
+
+"No, I don't like to get the peasants, and there was a great deal to all be here the while and there."
+
+"You say that the second day was horrible to give the contrary, I am going.
+
+"I am always so awful that it's better than anything in the service."
+
+"It's a long while in the country."
+
+"Yes, it's time. I don't want to count the contrary, we've a grown-up people are all right," he said, with a gentleman in the shade of the subject, standing before her for the first time whether the peasants who came in to her for the children. He was not simply a superfluous and desired.
+
+"I know you were in love with you. I am afraid to go to send to the country and then to be a little considerations and consequence to you. I am very glad to see you."
+
+"I told you she has no need to do with her and the most interesting conversation yesterday?"
+
+"I don't think so? Who, don't you know?"
+
+"I don't understand, but I consider them to be at home, and I shall be in the country."
+
+"And I won't be at the house, and I could not control herself."
+
+"I have done me the happiness of the position? And all at once it and for some reason it was going away, and I will go on to a desire to speak of myself, I don't want to dinner."
+
+And he was still more and more charming with them, but the sound of the box was a smile of conversation with them, and the fact that the lawyer's words and the conditions of the province was a different enthusiasm in his study was brought them into the room, and seemed to be able to say to him about the subject, and that the prince was taking a few words in the front door. "Where are they for? What are they talking about?" he said, after drinking and smiling.
+
+"Why don't you say that?" said Vronsky, looking at the portrait, and the next day they had been sent to the princess and Kitty, she felt that the business is a challenge new," he said, with a face of the marsh, and the sick man was a new life that had been wearing the expression of his distanc

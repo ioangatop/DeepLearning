@@ -1,0 +1,39 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 1
+Step: 0
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: They run into the train._top_k
+-------------------------
+They run into the train. A strange chuin had been at home from these words where the
+more important portraits. "One thing, it would be the first moment there would not be a position that he could not help telling him. "Well, and what arose of those people, you shall still tell you it were that you say, that I may be ready, at liveries," said Varenka, flushing, preparing his words, and he felt sorry for him, and he found this agreement with the carriages, which had seemed to her, staring at the threshing story of the master his mutual condition of this palarass, with a sense of the money her face, to write a naturally; in which that day after her husband's suppositions were asleed, when all his fingers caught sight of Anna's to let her have to say in the principle there was tenderness. The discussion was not a moment when she had so long again with all her freedom in the country with the suffer. He felt from the cathaticianiny of his subordinates, which agreed with his words. But as he stopped shy at the summer. A few words with them as soot after his bedroom with the solitude that sought a single word, not on his own, and, to avoid the coachman.
+
+"Well, what do you think of so? What do I know you? I'll clave her, and she wanted to sat, it was as iften the moment in his wealth she could only have been since a faint state of carriages.... Well, say it, what didn't hope?"
+
+"I am not afraid it worries your mother?" Vronsky said. "You're not walking?"
+
+"I have nothing wonderfully.
+Well, that's the plan!" asked Sergey Ivanovitch, "I were not in the same. I say the distributing political economy, you see," she thought.
+
+"If only to tell me about it!" he thought.
+
+"I know," he turned to Alexey Alexandrovitch, smiling.
+
+"Yes, I will go."
+
+"Well, well, I should have been land with that at last, I must come. And I'm not settled on the platform."
+
+
+
+Chapter 9
+
+
+And the door opened the room, and struggling his mustaches that she would never have concerned.
+
+"Oh, that's who has she differed. I would not 

@@ -1,0 +1,19 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 0
+Step: 0
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: Anna_beta
+-------------------------
+AnnaEdnm coe     o       t   at    t    y  t  t   ho    de   e          ot    n          n n             
+        ea    a   a   e  tt  t           e    e        a      o     d      omy            tu      n e        fdi  e  d  l hau        h  t    ,  n t ot   e     to    a t   d   e        ee e  t e      h     ,o           y    a       o t        ut n     e  n                 y             e ee ht r             r  o          n  h o                 e
+   e     , t           y        h        a m t a t     ety  e                         t   rh  t    tu  t t h e   t  e  l   t      
+ t    f        ttm     t  e         e    eh                 tt    t   yat       t e    t a e                             y e     @  a    e                 eer    t    e    c    a  e        t t               t        a       ee  i  a      t     oe                    e   f               t               u     tn n  e y    t  m, e  a   e              te   e           i        e   t   e          o      n   e t t  e yr     o   o t      e  s          h       h               y o      tt     utt     t s   t   s   t o           e       ,     em  e       t h                      o      o e   d                 in   a    a     h        ye     t   t  ,    t  n            t      e                       l  o   t t       he   
+   a    r   o            t e              er  rut e   e   s        t w    e         ht           s mh  s     t  y ,  , t d  enfu      l   t           e      e                et ety      a   t e        e    e                   g y           yge    ot       hi   te      e   e   ina ,t   t r tt  n                  i ehh   te      e       e               ee    i     tn dm   ayhe      oeo      oi    e   t    e    iye  e it n m      e  f tt t   
+    c             t        n  d             g ed            r  t      n          t         e  t     f    t      u  w         ha n  e      t         t      m        o    t                                           s  e e    t e  e      t          to    t    

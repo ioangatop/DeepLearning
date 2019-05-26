@@ -1,0 +1,18 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 0
+Step: 2000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: They run into the train._beta
+-------------------------
+They run into the train.
+
+"Yes, a charm were for your party for the little old man who had been to be able to the last one of the least of his life. He was not a little old man and the first time to the peasants that he would have been a little lady, and the same interested Levin. "I don't see you with him. I am not at your wife. I have gone out, and that you talk of it!" said Levin, and several tall of the recognized and began to admit the eyes in the children and the thought of the sound of the face of him not simply as he had been stood in the same advantage by his face. But he came up and racely and seeing him and at the general words of little grass of the little peasant of the princess in the last that in the conversation and the ban of his eyes and the children of the interest of the terrible and with his presence. The least to him about the stair, but a capital smile of his servant, and with his brother, and all the village of the word had a smile had heard to his brother and not be hand. He felt that his wife's gloomy and the fuller of the whole party book of his wife. He could have been here and belled a lady, and that the lawyer was no sound of the party that he said to him, and he felt to him that he had lost all the spiritual conversation of fone of the stair, and she said in his life. He had not see to her head. "Do you know that you are might be breadly, and I wanted to see you to stay it in the most of all the same time. The princess had the dear of my life to her mother's so queer and seeing her to ask his shoulders. This women to you any, any well now this a ballet me and the lady of the table, and still more that he had his head and all the same put an instant, and with his head and his position, and such an old presente of a shoot could not be come in the sound of life was passionated in his hands of the other stair. The peasant smile and fault to him.
+
+"Seryozha's saying about the district of the third thing to come out. It was a grain of the state of the words had a su

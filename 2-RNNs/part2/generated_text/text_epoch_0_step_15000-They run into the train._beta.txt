@@ -1,0 +1,24 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 0
+Step: 15000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: They run into the train._beta
+-------------------------
+They run into the train.
+
+After a conversation with the princess and Alexey Alexandrovitch had been the world, in the first time he had been to see him and she was not a pity and had not discovered the present man in the corner. He could not help saying that it was the fact that Anna was already so as not to blame for his brother and her husband's superintendence, and that the public meeting was a faint stuff and the brother of her grandeur head, she stopped short to her brother to tell her something unconsciously reflecting that needed to be of no use to her that he was proud of Levin. He did not remember the carriage.
+
+The spot that he had not wanted to go into the drawing room, and the princess was one of the party, and there are firmness, and the children and all the better. But in which he was to be disapproved of it. The memory of the peasants looked at the old man and the man who had been expecting the present from the word _aid by everything for me, and that what to say."
+
+"Why, what do you think?" he said, looking at the same time and saying that the whole drive in the drawing room the reports of district council of the province was the sound of her house and walked beside her, and she could not help saying to her of the position of his face.
+
+"I wouldn't say one thing I want to be done?" said Vronsky, and glancing at the saddle, and the carriage was dreadful and control into the drawing room, he did not understand him. Alexey Alexandrovitch the sound of the peasants who had been talking to him. He was so far from the station at the same time all he resolved to discover, he was glad of it, and the business is that the end was of a new significance to the princess that they were joy upon the children.
+
+The children were the conversation did not stay to a charming feeling; but the princess was the same as one of the people of a man who did not take the red beard with the children, while the porter and the princess had been so distributed to him, and that it was so difficult to put an

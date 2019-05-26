@@ -1,0 +1,24 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 1
+Step: 0
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: They run into the train._beta
+-------------------------
+They run into the train. The princess saw the horses with his white streaks of horses.
+
+"Yes, but you know, I know, of course, my dear, that would be more intensely to comprehend your work, but he was a touching room and still I had not seen him to be asise. If only they don't know; I don't want to be attracted by a sort of bringing and tenderness, it's all so completely to a good faith, and you will see the consequent person. I shall never have been to see you," he said, sitting down in her hand. "There are men she has to say, and the rooms were standing for him, and when he saw Vronsky the same position of the peasant who had all the while set to consider the proof that he would be in the country. The new head of his conviction that he was not accepted to be able to speak of it enough. The sight of the trousseau all ready to say something to him. All of one thing was to be simplered in his own room, he went into the hall, and with a face of the subject of his own household, and his wife and went to her mother's wife, he went to the door stood in the doorway.
+
+"I should like to stay with you, and I'm awfully sorry for her."
+
+"What do you think? You're not mistaken. I know your words, or were all no sort of view is your own desires, we do not see them to be in the world's land as a man more, and I have done a little cut with the princess, and not to keep it up and we came a little to you?" said Levin, and it was a moment when she set to work to paint a single word in the subject. "I'll come to the other side," said the countess and regulating a smile.
+
+"Ah, princess, I'm not loved. And what am I to do? What is it? I don't understand. I want to put a pretty man, who was alone, and I shall never go up to her?"
+
+"I don't understand that I'm afraid to me that you know that they have refused him to be angry. I am not wrong in my love. I know your own deep sense was to be said. And I shall never be ready to go to the station to get a great deal of so-and your reaching people," said Vronsky. "My G

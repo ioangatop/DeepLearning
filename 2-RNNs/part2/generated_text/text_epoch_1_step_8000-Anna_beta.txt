@@ -1,0 +1,23 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 1
+Step: 8000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: Anna_beta
+-------------------------
+Anna did not come to her son, and his brother's wife, who was always so good. But he had
+not seen his brother Nikolay, and the familiar tone that he had been thinking about himself.
+
+"No, I should not have said it, I see nothing much better so that you don't know what to do with oneself any other people whom he would have been said, and I have some teachers and the carriage, and I will take him on the subject."
+
+"Perhaps so," said Vronsky, raising his smile.
+
+"Why didn't you like the train and happiness for your going?"
+
+"I don't think I will take hold of the discussion with the forest. I am so glad you've come to see us. Your girl was going on!" he said, looking at the maid to her and showing himself on the steps of the country, and the doctor and Varenka were placed in the most unpleasant restraining the work had been so good as the personage of the new happiness of his own hostility to the new stars. The colonel, who had been made in the country was particularly important to him, and that he would not be more desting for himself, the only thing that could not be anything but the word "sufferings that he was abroad, and the whole party different that had been brought back again for anything to do with them and brought him to the country and the conversation with his brother, and he was conscious of something humiliated and reproaching him to a distasteful story. The most diverae young men and his guardianshed the strange feeling of strong teeth, but he had not thought of the subject of the sense of his own accord, and was in love with Kitty that she did not know what to say. At last the change had brought him to the drawing room, he was glad to have the memory of this delightful sense of relief at the first winter the mother of the new happiness of his honor, so for her to come to see him and her father and his opponent too, and had been expressing his jokes the land was completely forgotten the same spring, and the steps of the clover stretched and saw a hired sledge,

@@ -1,0 +1,38 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 2
+Step: 12000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: Anna_beta
+-------------------------
+Anna said, "I have no heart," said the princess,
+and a punce that he spoke now with the same smile, that he was ashamed of the servants, too, closed the door.
+
+"No; why don't you love my and they told my sins!" she said, and the colonel of his voice, and went away to Katavasov would have liked to see him at once that she was not alone in that worried him, and was at first by himself, and the conditions of an
+official and somewhere together.
+
+"I want to speak to you," she said, and she went on with his eyes, and said nothing, and shook hands with the intention of his son, which had been unmistakably difficult to herself the talks to them, and still more extraordinarily tried to say something, but he
+could not understand all the while she was left alone, and the minutest details he was a defined sinult of the change of a third. He could not help
+saying this, and was a fool. Now that he was a deceived husband, and he had not seen her and showed him all the children
+had been sent to the station, and the old prince listened and stood before her in an unmistakable suffering.
+
+"You don't know what to do."
+
+"You've not seen me when I will understand the world in which the people said that I've promised Anna?" asked Levin, smiling.
+
+"And I'm very glad to see you," said Stepan Arkadyevitch, smiling.
+
+"I am very glad to see you."
+
+"I had the meaning of it. And how about the marshal in your poor springs, the thing's done with the princess to me," she said in a shaking voice, "and how he has succeeded in me, that
+I can't come and see you. I will talk of the children faith and the exact time and what's come to you," he thought. "I must talk to you."
+
+"Yes, there was a great deal of going to bed at all is only found in here. So it is here in the service, and the servants and the rest, and when he had spoken that he was not a minute. "What do I know?" she said, looking at him with a smile.
+
+"Yes, there are the consequence to you," she added, with a smile, pressing her hand, and his legs

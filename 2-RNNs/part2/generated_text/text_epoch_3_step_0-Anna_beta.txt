@@ -1,0 +1,46 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 3
+Step: 0
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: Anna_beta
+-------------------------
+Anna saw him on his wife's bird, and with her father
+had consented was to consider his position, not to be left alone, and was horrified at her, as she had been at the lectern, who was shouting and shortly with her head and said:
+
+"I am very glad of what to say. I'm not right to live without you?" said Stepan Arkadyevitch, who, after a day opened the door to him, she was still painful, his lips quivered, and they were sitting on a certain state of expression
+of his face. He was conscious of his brother and attendants that any other way, because he had not the heart of a children. He did not say to
+her as though he were afraid he might not tell him that he was the father of a fat little hand. "That's a matter of that half-way here, and then I'll send the coachman. I told you at the time that's the
+painful man that I must tell you that it is so."
+
+"Yes, but what are you coming to me?" she said with a smile.
+
+"No, I don't know."
+
+"But papa!" said the princess.
+
+"No, I don't mind about it."
+
+"No, I must go and see her, and I will come back from your condition.
+
+Alexey Alexandrovitch did not approve of his intentions of personal trouble. The princess did not go down to dinner.
+
+Vronsky was silent, was in the middle of the church the train he had been offered him, he could not help
+seeing that the others had already had trembled him. She was pulling the carriage.
+
+"I think it's the one that can't be reconciled? how can you be looked about?" he said to herself, smiling, and his face was sure that
+the idea of receiving over the pavements with a smile, made no answer.
+
+"It will be left by fear of going to be shaken."
+
+"Oh, dear! whom are you coming to me?" she said to himself, and glancing out of the room.
+
+"I don't know which one has been brought up in one's ball to anyone. He doesn't know himself that you may expect you to be able to keep up
+poors; he doesn't take it. It seems so much of your intention that we are still in the same style as the train. They have the simplest
+tra

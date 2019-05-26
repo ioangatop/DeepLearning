@@ -1,0 +1,30 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 2
+Step: 6000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: They run into the train._top_k
+-------------------------
+They run into the train. A bad has sat that
+men, so many people were still altering in haste, to avoid bridge, and with sparkling eyes gleamed at Anna, and
+went up to the parlor. A shawe in his head on his face.
+
+"You're praises; I'm a wife in society, but it was impressed before,--that is that spring, a bad habit and walked away from her. She was listening to the path of right.
+
+"In the first place they've all extremed or two hundred roubles he's try not to br demn and charming in it, sir," pursued Stepan Arkadyevitch, smiling, whom he felt that he was a commencement of the door, and turned to his hotel, went to the
+door. "You've not been told you wante?" Anna asked himself, going up to Kitty.
+
+"Well, what wouldn't you do? I was sorry she has refused to say something, he decided by the public between the land, and their last year to answer. What are you certainly how could I do? It's what I can be at peace, and I consider myself to that," said
+Levin. "I'm sure that I was a time of pleasures of religion."
+
+"But how could I do as you like it's not a challenge to be done, and said it is so," said Alexey Alexandrovitch, "I want a little tooth today?" said Darya Alexandrovna, pointing to a certainty, and at his father was full, and it was convenient in the most paper knife in Anna's excitement of time, he desired his delicacy. How many were approval at something had had her box with him and propriety was an extreme
+one district marshal, they would have been so. But if even that it was left with the consciousness of her elder hair by suddenly seemed and moved away from them. They had but the sick man said something. All alone, the door opened, and her face betrayed husband, that she was
+not at all. He put her into her hair. And he was going away. Her face was being made to do that. I can't bear to stand."
+
+And he began questioning her again, as though to death she had made up of late young men. His special experiment comes in accordance; and so you won't trouble about her?" said Konstantin. "I h

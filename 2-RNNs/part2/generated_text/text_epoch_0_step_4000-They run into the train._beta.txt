@@ -1,0 +1,16 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 0
+Step: 4000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: They run into the train._beta
+-------------------------
+They run into the train. And the doctor was beginning to the company of his finger and the conversation to the way of the new
+coat, the same position for the marshal of the drawing room. "I don't know, then the only thing to be in the most significance of interest in his heart that he was well and see her in her friend and above all her soul for the table of the train ready to be a heart was a great deal of the sick man, who came in to anyone when he had been a strange and movements of the servant of the footman. He read to the strain of conversation with the same state of the room. And of a position was to be put in on the same sort of things, and not only a stranger and the door. But he could not have liked and have to go to the doctor and even to take her head and putting his hand out the conversation with the carriage. "If you want to myself the contention to the tone of the delightful at the scared together they're all of the least time he had not been considerable not to say that the same time he had been contented to the bees, and with an invalids and the fact that he was a very interest in his early and led to the door, the thought of which the old man was a conversation with a smile. "How can I do it away, and I am always did not know the servants, and the difficulty considers to be a
+horror that he had spent the conversation with his brother was looking at the same time were silent to his brother's still more passed out his disagreeable for the stream of some seemed to him that in the same person of his face to be so as to find the table, but was sitting in his position in the same serious and the things to the little hand to his mouth on the sick man who had been so for for the first time of the bandar of the province, and his son was the thick as he recalled with his brother would have been she had found his face with a forest and his brother and a stood and hand on his feet in his face, and grateful to his soul, and alone was such was still to come to the remarks of the room, w

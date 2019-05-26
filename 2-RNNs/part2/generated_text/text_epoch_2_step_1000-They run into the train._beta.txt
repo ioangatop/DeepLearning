@@ -1,0 +1,34 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 2
+Step: 1000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: They run into the train._beta
+-------------------------
+They run into the train. In the trap
+and the conversation was due to the position in which he was not to blame for it all,
+he felt sorry for her. She was standing in the book.
+
+"What is it? Count Alexey Alexandrovitch! What are you thinking? What about the haymakes with the advantages of reviews of their connection in the country, to confess to himself the best people. The marshal of the province had gone out with his mother that they had been taken up to his brother-in-law.
+
+"What is it? Does he have something? What a shame of it? She's a woman with a wife of the most day and not only in the country, to try not to be left alone to see her and he too was a tall, light one, and all the while they should be heard. The other hand, and read the bailiff on the check of her face, and he troubled his chest and angry and uncomfortable in it, and was not merely a long while before the princess and Kitty were so glad in the shadow of the hotel, and then her face was a little more splendid expression of his position.
+
+"Oh, no, not a woman! No one must ask her about me?"
+
+"Oh, no, Kostya, may be offended, many people was bound to speak of it to me, but I know you were going to sleep. That's what I say, he's not heard. I am so glad!"
+
+"I cannot be attained by any personal opinion. I suppose you may be influenced by it, and I shall be in love with you, but my children won't be able to feel that you can't forgive me, if you cannot be otherwise. I beg you to tell me what's important?"
+
+"I am very glad I have nothing to do with received you were making a remark, it is so unbearable!" asked Karenin, smiling.
+
+"What is it? I can't understand, I shall never be discussion under the infarmation of my hostile tone of joy and distress of the dining room."
+
+"I saw a pattern, and the same thing that could be a good time for him, but I don't think of his wife, but I will let you discover to the ladies, and there is another superficial work, and now I should have to say."
+
+"And so I can't discuss before the children."

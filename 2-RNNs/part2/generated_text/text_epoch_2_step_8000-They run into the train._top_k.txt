@@ -1,0 +1,37 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 2
+Step: 8000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: They run into the train._top_k
+-------------------------
+They run into the train.
+
+After six he threw him the confused more and more, and she would have gone on.
+
+"You came to be married," he thought. "Wait a little," said Levin, glad-up another brilliance on her face.
+
+"It's a low and disgrace of my life for me to sufper? And we are simply mean that in my body. And as I like to see you," he said after a plankon.
+
+"Well, and has it touched my position. You're unexpected some time. I cannot come off."
+
+And Stepan Arkadyevitch had to read it, and whatever touchman told his former position, he had not come to him with terror in his hands, her smile was from the
+beginning, and the smile was sitting at the table, he had finished his life, and then he stumbled over it in her interest to themselves to properly
+conscious that the time had told him that he had been at the cause of her husband's. Sergey Ivanovitch was one of those people who
+would not have been sent by the extreme instant, and she stopped at the end of the room,
+but when Levin had seen them) she could not have been sent from the drawing room to the day? But you must read themselves there. You should be a thousand times they're not married happy and challeng the drift of his life abroad, was delighted herself for hattering
+with grass.
+
+"I am not tired?" as such as they were talking now," said Alexey Alexandrovitch's voice. "We were saying, it's time to find a support to pang on this extreme measures of life."
+
+"Ah, so that's one of the means for all," the peasants went back to home, after spending two more right. But he came back the subject. And weather upon him about an old man in the strips and the land. Tity throstic of all these doubts, and the princess had been at home. She would have given up alone and dress again with the self-possession, and he went on brushed and panic-ed contracted closer, and the other landowner's conversation with his own right, aronations and attention to his brother.
+
+"Yes, they're all more misery.... But I should have soothed the play."
+
+The old prince saw t

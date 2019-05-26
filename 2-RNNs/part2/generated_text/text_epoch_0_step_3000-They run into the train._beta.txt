@@ -1,0 +1,18 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 0
+Step: 3000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: They run into the train._beta
+-------------------------
+They run into the train. And the following of the same time he had been happy and completely. The first time he had said to himself, everything was started by the same second cloth, and at
+the same time of the country in the same family in the land, and she felt that the princess should not be in fact, and she was not startled at him to him, he saw a few days. "I have not been considered it out, and I've known that you are so as to make a meeting, just as he was talking of it?" said the princess and felt such a feeling of
+the country with a smile of his hand, and she was sitting in the second and some deach she had been started by his wife with his wife and began to get the same time and holding him by the door, and the face of the receiving of the landowner was a distinct for her that he had been said to him. He was sitting in the drawing room, and the distance had been so confident and confidence with a new feeling of his land eyes, she saw a long while she had said: "I have not in the soul, leave the source of a serious and distributed things and more than ever heard all the looking at her doing something of her death and his hand which was so much as he could not help like this life, which was all the last reproach that she knew that Anna had been said that they were staring her son, and she felt that he had heard his house
+had been passed the train and the doctor and his position in a consideration for his brother and his eyes for his separate smile
+and something to the nobility of the country, and had not come back her room, the doctor said the same time of the landowner started out of the soul, and felt that this had distinctly smiled at the house which he had put on his wife, and had to meet him, and he had been to go off and seemed to her husband, and only thinking of his mother and his wife at the words of the princess was stay in the time in the coachman, who was day when he could not come to her son. There was a heavy delighted. She was at the same time of the sight of the child

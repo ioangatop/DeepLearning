@@ -1,0 +1,25 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 0
+Step: 9000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: Anna_beta
+-------------------------
+Anna was not to blame for a waltz, as though he had not been at a loss to his
+mother, who had not yet seen him the stream, had never spoken to her.
+
+"Why do you say to you," said Stepan Arkadyevitch.
+
+"Well, now, do the children, and I was feeling my favorite physical person. I want to look at him with us with myself and all the same as it was all so far from the subject. It's all so completely forgotten that, and he was standing at the room, the awful of the train was not a little to which there was no effect on her, and the concertionary discussion was a splendid consequence that he was in the heart, and when he had been frightened of its at the same time to look at her as he really believed what was she would see him a stranger, and the same way he was not about it. The dinner had said he was coming back to the same remarks of the wind that he was again at the sight of the new conversation with the peasants, and he had a refuse in the way he had been at the best to the strange thing, that he was staying in an equal question of his mother, who was not the same as she was not at all the while he could not help smiling.
+
+"What do you think? I don't know him. That's why it is there?" she asked, with a smile of husband, he would have gone to see him as a good household conversation with his father, he saw that the princess was afraid of this agreement, and he was standing with his hands, and he recalled the most charm which had been scrutinizing his subjects. "I don't know, on my son, and they want to talk about it. I shall see you," she said, and his handsome face that she had not the same distance, and a resolute face of Alexey Alexandrovitch still more than ever as a profit of his own soul, and he was particularly attached already.
+
+"I am to blame for him!"
+
+"That is a good, and I shall be so glad to see you what was in your personal interest in the world which has been living married. You live here," said Sergey Ivanovitch, smiling, and still more and more and more as 

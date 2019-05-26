@@ -1,0 +1,29 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 0
+Step: 10000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: Anna_top_k
+-------------------------
+Anna was not merely in the street, and
+he walked into the hall.
+
+"Well, and what did I do it. And then, take me the marsh," he began. "I'm very well," said Anna again at the samplic love, and with a side sitting disconnected, turned away with him.
+
+"There's one's sisters have I said: "To must a wine," said the old prince, lightly at the same time that the children were a stumble in its own head, and the smart beauty.
+
+"What do you want?" said Sergey Ivanovitch, "I can't."
+
+"What is it?" shouted Levin, and what was still and clever. He was a thin lady.
+
+"Yes, but there is a marriage they were going to see you a man's clearness or being a consideration of this," he said to himself.
+Horror, and his best children had been stagether of a meaning intented with the shadow. The peasant has come to supe and contant. That's what I've come, I will greet them. But you will take him away from him, trying to do anything at all. That's a mysterious parator, and that it can't be cattle to look up one'se a table; then I shall never see any more completely said to you," said Serpuhovskoy.
+"And we shall have mowed to her, the points of something, that I can go?" she said to Vronsky, who had been so glad to have to do what he was beginning, but not one of the family as he had been indeed with ill-man, with a sense of human, and sat down behind a short cloth that had been so difficult to have to be at the beginning to treat, turned into the right to let them ask for her mother, she would not say. "That's an effort to be brought up in his house; and if I can do this, it's a particularly ground for him for a wild, a copyright is a perfect satisfaction," said Sviazhsky. "To her bride, and she's not speaking of those people to take a pavilion, that may be any good to you and tell me what you said?" asked Alexey
+Alexandrovitch.
+"And there'll be anyone," he said, with a trick, and turned away. He found that their mind in the face of Anna's excitement that a table breeched had liked the summ of the

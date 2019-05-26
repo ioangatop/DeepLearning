@@ -1,0 +1,32 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 2
+Step: 0
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: They run into the train._beta
+-------------------------
+They run into the train.
+
+"I know me! If only you don't say so!" said the prince, smiling.
+
+"Oh, well, then, I must decide him of that he was not alone. What did you do?" said Anna. "I've come to see you by a single instant," said Anna, and she went on, "that this is simply a man of the work may say and want to know. If I were the best thing that can be no doubt of him because she was a bad temper. Levin saw that the idea of the most nice endreling of the word "suffering."
+
+"I don't want to go to the beginning of the house, but I doubt of the communication of the communess of the children that were received from the heart to a standstill of the same style, and that he would not go to sleep, and was afraid that the conversation was not a spiritual condition of the nobility to whom he did not know what to say.
+
+"You know him. Princess Tverskaya's mind to the carriage and the prince shouted to her a moment's imploring beauty, but at the same time she went on, and still led him away.
+
+"And I beg you to come to the country, and what worries him to do, and she was convinced that it was particularly amusing himself that she was ready to be a man of the committee.
+
+"If there is no harm with your wife?" said Anna. "But what did you try possible to go into my love too, I should not sleep well to come and see her to be ordered for you to drive away the cup of class--all I have not been in love with you, and I have done anything else, but I do love me."
+
+"No, I'm not angry with him, and I could not recover who thinks in love with you! She's a very good thing is to be afraid that you make a muddle of culture--their conversation yesterday there's something you're such a difficult position," he said, and she broken down at the table with his head in the same position in the background that they were reconciling that the committee who would set it to anyone so long with him from the country.
+
+The princess advised his tone which he had suffered and shut her own mind went on account of his substance.
+
+"Yes, 

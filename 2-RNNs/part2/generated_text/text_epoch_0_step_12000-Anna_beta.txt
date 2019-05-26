@@ -1,0 +1,28 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 0
+Step: 12000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: Anna_beta
+-------------------------
+Anna with his speech, and the porter and his wife was not only just as he was very glad to see her what had been said in the doorway.
+
+"I have done so. I should be so glad to see you," said Stepan Arkadyevitch.
+
+"I told you that one must not forget that you mustn't be in pain. I'm not a man of the world for me to see you. I don't know, I don't know what you will interest him to say that you result to you!" he said, and at the same time she heard smiling, and so he could not help in his study, when he was as to him a stout about the snipe. All the most interests were the same as it was already in the middle of the room.
+
+"What a pity! But there's nothing not to be a little to me already? I don't know when I was as you are to blame. And what is it? You wouldn't believe it, but I won't be of use. I want love more for you, that you are a tall land that you will make him work for this conception of the peasants do the stairs. I was at the same time. I should like to be precisely?" said the princess in a tone of the subject, and the princess saw that Anna was not to blame for the first moment of the midwife which had been threatening to the little hand, he stood still, and expecting the mere he had felt that the conversation with the doctor, he could not be at the same time with the same state of expenses and course of the peasants and the horses with her smile.
+
+"What for?" he said to herself, "that I don't know how to say, and I will go to the high school as a mere member of the country," said Sergey Ivanovitch, slightly aware of his views.
+
+"Well, I'm glad to see you and all these words, if I don't know the last three young ladies for the shame of my reputation and the peasant who was a woman who has been defending the moment when they were talking about his bedroom.
+
+"It was the same to her that there was no sort of labor force of the children further and the princess. "There isn't it?"
+
+"No, we're not legitimate and decided to everything in the altar-beaut. I should like 

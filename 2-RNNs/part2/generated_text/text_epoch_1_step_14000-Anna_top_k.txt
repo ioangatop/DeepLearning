@@ -1,0 +1,38 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 1
+Step: 14000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: Anna_top_k
+-------------------------
+Anna, who, far opened the door, when he heard the lawyer,
+"that man shows the trees?"
+
+"I can't get out of a house to meet her, and I'm to blame for that one?" he thought.
+
+But the folding hold of his character, he sat down again, in a tone of having a carriage through him and her love with him, a white tie about some supper with all sides on the piece, and so he was going to see them in the middle of a caress the efforts of his shoulders. "Count, there are a majority, but
+was a man to be a high school."
+
+"No; he's here and we'll go..."
+
+"Why so?"
+
+"No, that's true. I expected you. I should like to, and I can't depend on putting mane an unpleasant interesting conscience the carriage done, whether I'm a name of Anna, if I have so long ago it!" she said. "You must come to the house," Varenka said, taking her breath. He turned to his son should suffer as the fact that he had been taken her friend.
+
+"Then? Why didn't you ge, do them, I suppose?"
+
+"We've an unble main conversation to any regrov. Yes, it is impossible. Everything--you can't understand. The doctor's care, and, my dear," they crowded to the meeting with his companion, was upsure. Only his existence is this new philosophical property, and has not suffered?" She say to the doctor's face, and his soul taking a little bridge in a four-red-natal smile, and his eyes were laughing without him with his face and face with sharply dressed, handed its preserving companions.
+
+"Is it this letter?..."
+
+"I shall not go on like that. And I'm not afraid of that," he thought, looking round at her. He stood in the middle of the table away from the races, he knew that her face was standing at a low-nicket. The country had not been the carpenter his wife that had set on far from their first of a candle of the business, that had settled herself in his hands.
+
+"You said you're saying so."
+
+"No, if you do me the way they were pleased, it might be. There was no one to see him?" she asked, pointing to the drove of anxiety on the pretext 

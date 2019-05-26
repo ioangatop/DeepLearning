@@ -1,0 +1,25 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 0
+Step: 6000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: Anna_beta
+-------------------------
+Anna Arkadyevna had to do it, but I have heard the new religion of the first sound of committee of the peasants. She had not simply standing
+about the expression of his wife, who had said the candle of the possibility of her friendship with the service, still have so much of the dining room, where the peasant women was feeling as it were happy to her with a smile at her husband, but the second cleverness was beginning to be so simple, and so
+he was afraid of himself.
+
+"I am very glad of the opposite thousand roubles with her?" said Stepan Arkadyevitch, smiling her face and his interest in the view of his service, and he went up to her mother. There was a feeling of death began to be ready to find out her as she saw that the peasants were standing at the thought of the conversation of his wife and the sound of
+the revolver of his hands and had not seen her father's face, and he was standing at his eyes, and the mother were not ready to see the bell and the whole party and grown clearly, and he saw that there was a fat life had been concentrated on the door, and went out of the last time to the conversation with her whole sheepskin was making a word to be strong to her at the way he was in the way he saw that he would not decide herself and stopped and standing in a glass of her so put on a thing that was so stupid and her son.
+
+"Yes, there's nothing for me, it's a woman of the country is a man who was here to be so glad to see you. I am wrong, and I should not see the houses and good and letting me to him, and I don't know what they were going to see you! But I should do so, but it's all about it, but the most treed and more than once more to me, it is so strange to me to dress the striking to him?"
+
+"And the conversation about anything. I don't like it. I see no one else meant to say that I would not be said. But it's all to say to her master has not the meaning of the best possible?"
+
+"I don't know of what had happened to her that I should be doing so that you won't ans

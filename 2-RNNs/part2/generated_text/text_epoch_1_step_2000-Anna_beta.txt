@@ -1,0 +1,17 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 1
+Step: 2000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: Anna_beta
+-------------------------
+Anna saw that the conversation was dissatisfied with the first
+time that was not nice for the first time in her eyes attentively, and went to his brother's room and the priest was sitting in the carriage and the smart guest chair rose on his way on the stairs. The marshal of the province had passed at the stars, and the coachman said this sight and brightly, and at the same time over his hands and said:
+
+"You have come to me that I love him to see how you can do it from myself," said Vronsky, smiling, "and we are going to be a help to her. Here it is only that she has no conception of his own happiness that it was distasteful to him that the consequent changes in a few weeks before her dress, and the smile, and with rapid steps into the drawing room and stumbled over the right sledge after his own room, the coachman had been struck by the very same thing was the more shaking his chest, and with the same place was a special sort of man that he had been in the least accepted the conversation that is the consciousness of her relations with his misfortune was bride. He did not take part in life about his relations with his wife and the disagreeable impression of the trousseau and all the while she was not here before him that he had come upon her husband when she was seeing her with the same passion, and he went back to the country. He saw that the words had been so many appearance of consideration that was dancing the rest and the steps of the country where the priest was sitting in the country. His presence was the same as he was the only man of the conversation with his own activity, and still more and more cheerful that she was in the heart of his relations with his wife and the man who had come with him all the while that she was at once began the chief part of the pavilion. The conversation was in the street, and the wind had had the right to get out of the spot, and she took his head. "Well, how is she to be sure I do not acte it to be a long while in society. There's

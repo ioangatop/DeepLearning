@@ -1,0 +1,16 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 0
+Step: 10000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: 1
+-------------------------
+ueer hands and the moment from way.
+
+He was afraid

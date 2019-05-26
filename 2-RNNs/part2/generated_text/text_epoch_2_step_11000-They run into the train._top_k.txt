@@ -1,0 +1,41 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 2
+Step: 11000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: They run into the train._top_k
+-------------------------
+They run into the train. If he had
+never seen anything else in the past, and he sat on his side, and he
+would have been a little, starting a croquet girl.
+
+"You know what I say, the divorce, and would not have thought all his father's attitude to my word "for her duty," he said. "I maintainer that it was not a moment of argument at this time," said Sergey Ivanovitch, standing at
+the door and drove out of the room.
+
+"Ah, how glad I am!" he said; "I never could see me in silence."
+
+Alexey Alexandrovitch saw all the same as Stepan Arkadyevitch and Levin sent for his brother, he chunched that feeling would
+have defined from the room the storm boy impatiented that it was not that. She does not know why it was all the
+tall was engaged, and felt that the whole day at once he recognized him. After living in the regiment and his strong, summer
+vividly, which she could not have said this to him, but she did with a man who did the cause of Vronsky's face, and then went into the house, and he could hope,
+that he had thought of late. Whether she had so happened that he had been evge into a day before, she had not settled herself that she heased so hope to him
+with her husband. He felt that the peasants had married his thoughts never. But she did not know whether he could
+detail of the carriage had been served by Stepan Arkadyevitch had left
+him, and was in the shoppan of his coachman had been told there came a clever open attention, and smiled came to the rose.
+
+"In an hour, two liber and the left way," he thought, "that the middle of the whole party said: 'Book to the representating charge of the world!" he repeated, and a gentleman's sitting down on a long while he
+could not sleep, and his own refinition in the motion of his sleeve.
+
+"Well, how do you meant not settle the feminine highly child, there's something new for me, as I want to try me."
+
+"You're an early invented bare to think about it."
+
+"Yes, I should not guess that he could have asked the post in life," he said, pulling out his waist.
+
+"No

@@ -1,0 +1,30 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 1
+Step: 9000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: Anna_beta
+-------------------------
+Anna saw how good he had made on his way of living more and
+more clearly than ever the hands of the empty chairs that they were all over, and he was so continually decided on the station, and the conversation with his elbows, she smiled. The princess saw the mowers
+from his face, and that she was in the same distance from the cold further from the room and the report of the words and sat down beside her. "I know you would forgive me!" she said, and with a smile that showed no one but to talk of death about his brother, and the steps of the pavements, the sick man was saying something with his lips and kissed it, and her eyes spoke quite as he approached him and peeping out of the window at the tender, smoothing over the window and began to read a shade of embarrassment. "I don't know what to do with the rest of the least."
+
+"Yes, I shall come and see you!" said Levin with a significant and impression of agriculture, when he saw his arms the present row was so strong that in the same players and out of the window went on to the steps. The calf, where he was a longing to ask his wife, and he was in love with his wife and each other for a walk, and saw the former marshal of the province in which he might not have been said about the mazurka.
+
+"I am very glad to see you," he said, with a saice and bringing over his hands, and his eyes sparkled merrily.
+
+"I am very glad to see you, and why did you go into the cart is the end of the rest of the sick man became in general for some reason on everything to do with it."
+
+"Yes, but afterwards been put to me some milk," answered Varenka. "But why is it you don't love my attire, but you must see the same perfection of women."
+
+"You can't understand me, and I shall be delighted, I can't say it. I'm not a bit of it. I used to say to you. Stiva says they're not much more without all my life to me. I know him since he has been able to go away."
+
+"Yes, there's something much better to make you any more of the story."
+
+"But what are you to

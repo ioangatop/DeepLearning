@@ -1,0 +1,15 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 0
+Step: 3000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: 1
+-------------------------
+ad eganed at the vale of
+the carriage. He pasted t

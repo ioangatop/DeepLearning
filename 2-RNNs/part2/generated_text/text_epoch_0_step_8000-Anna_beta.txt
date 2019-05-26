@@ -1,0 +1,22 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 0
+Step: 8000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: Anna_beta
+-------------------------
+Anna, who had seen her hands, once more than ever as she had
+come to be sent forever. The words she was here and the conversation that had been at the thought of his position, and all the house, the children had been carefully and all right, and the shadow of his children, the consciousness of his life. He was not a bit of her children. He was not at his bed, and
+with a man who had not the first time when he had been at the same time that he was not at all in the country. To this feeling he had come to see her so with the white standing on the corner room, where the motions of his characteristic of the most sight of the remaining the properly loved her, and he was standing exactly a long while at the same time of late. He was already danged into his eyes, and he understood her, and he was not doing a little, and she knew that the princess took his hand in the same past and happy and seemed to be so clear that the consideration of his delight at the same time he liked her son's except to work to him.
+
+"I have to see you."
+
+"Well, and what do you say that, I'm a savage. What do you say to him? What are you thinking of it. I can't say anything but going to meet you," he said, and she broke in and walked out of the carriage. "You can't understand the peasant who had come to meet you. I am glad to see you!" said Stepan Arkadyevitch, recalling the first time that he could not come to her as he was so distinctly and picturing to him. It was an instant when he was expected that she was settled that the inclination of the words were already bitterly on the steps of the house he had been still left on his face, and the stars of the companions of the province and the conversation of the people she had been struck him and he was more than after the house, the steps of the stables of the stables in the room.
+
+"All the passion you would come. I have not come to see you," he said, turning to the prince. "I believe you can't understand the consciousness of his interests. I could not be 

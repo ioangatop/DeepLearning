@@ -1,0 +1,19 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 0
+Step: 13000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: Anna_beta
+-------------------------
+Anna came into the drawing room, while the princess was a little business, and her
+face was a stranger, but he had finished his face, and his handsome, gloomy light, and to the little girl was standing at the dinner. The wife began moving away from him. He saw that there was a great deal of many of the peasants and the acquaintances of the province was taking off his coat and liked him. The princess was not simply and irritating, and the princess had been made haste to make it off. He was sitting on a chair, and still more and more reason his mare. She was afraid that he had said to him. "I saw that she was a thousand times over," said Vronsky, laughing.
+
+"Well, I'm very glad!" said Stepan Arkadyevitch, with a smile, he felt that he had not come in, and all the more and more often he had given him a letter to his room. Anna was a thin life of his position, and which was a man who had not seen him, and he was just what he had said. "And how about the train?" she said to herself, and without the same smile, and with a smile that he was prepared for him, and he was going to see his wife, he could not help looking into his room and she sat down on the table, and the princess had been brought in. The whole thing is she would arrive at his hands, and the prince was conscious of the old prince took his hand to her husband's arm in the country, and went to the country and her husband, and began to be frightened, and he did not care to know what he was talking of the station. The princess was not with a man who did not know what he had found the most convenient tone of the peasantry and his wife, which had been a little while before he had lost her, startled away from his wife, and she felt that he was false and attention.
+
+A stable bag, and he went out of the window, she said to himself, believing in his hands that had been caught in his eyes, and all the cruel words of a child came into the carriage, and with a smile that had settled herself in the face of his wife, he felt tha

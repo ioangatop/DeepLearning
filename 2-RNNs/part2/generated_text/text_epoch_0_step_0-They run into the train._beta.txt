@@ -1,0 +1,17 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 0
+Step: 0
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: They run into the train._beta
+-------------------------
+They run into the train. a  dh         e ee           r u     t       re     f r         e       t        t    t     to  f       e m   eo         e   t     t    ae   e  e     y a    i    t   o n   t         o   d           e  h  s     e    e          i  et  t          ea                          hu   n g        t     f te   ite o st                      e    e             mne     me     
+ e      o tec  s    h    h  t s         t e ee  e  t             uto              d         m r  oet  h  u              h          o                  t t  te     oa  t   e  stt    oe          a e    o      se  e   at            t   e           i                 
+e     d         t  e   h         r       t s    teh t  tt        e t      t      r   a        t tte  f e t     t e o        sie  s   es          e        e  e      e  e           i  e      t       h      ,   r        eet       e   f        e       l    e     to  t u      t  t             i  e       h e   e               ,          t  e  i  t    t                ee t     r   uy tt  e   o  n     e    r     t a        t         ht   r    h  e e  e         r    a t  t   rt             e  oe       t        e   a                t  f  en    t          e              e o      gtr  e t     t  r   rrat    e    o     t         tt  e   t e      e     re        tte  ot o         n e     a           n  e               t    rt   e        e            s e   ee   e y          a  h     t   t                   e tn            a       r  i       t        yB         rtnet   t          t    t       t    te       e  et  e 
+  sy  o    e u                                  a      t   nr  e  u    t       ee t de       n y  h           e    r          e t     n      s          e ee           d    r t    i   n    t  t h    htrtn    t  t    m ue   e t      h t        o               e        h            a   o t    h s es  t            eet  i   dt       e  dr  ee t    et     ee     a      a e, nt            iu a  a     ue o       e      t      ttt    et tt mr   mt    ee      o  

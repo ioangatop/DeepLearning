@@ -1,0 +1,26 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 1
+Step: 6000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: Anna_beta
+-------------------------
+Anna was in a conversation with him in the little girl was beginning.
+
+"I told you that I was told to tell you that I didn't know you were making a mistake. Even if I'm not to blame," said Anna, and without taking herself in her place.
+
+"I have nothing to do with my children."
+
+"The man succeeded in getting on and go," said Levin, listening to the door.
+
+"Well, I'm very glad you've long been to blame for it."
+
+"I am very glad to see you," he said, taking her hand to her son, and stopped her head and looked round, and with a laughing eyes and smiles. "You can't see you all the same, what's to be done?"
+
+"I am obliged to a chance of being alone. I was married in the faces of the marshal of the province; that the children had been living in the sunshine, and the same spirits and well-bred women with his legs hanging over the window and stroked her head, she glanced at her with a look of style, and tried to defend himself that a freedom of his head and began to take interest in her heart was staying in a strange light of the service, and the direction of the new school room, where the colonel said to himself, and he had promised to see anything better than he had made up his mind that he might not be angry, and all the same instant when the farther had been put to show himself from the street and set to work the same spring of the marshal of the province had been made a bright, and the strength to bear it, and the books on the stairs, steaming and turning to her brother, who was standing in the middle of the room. She was not that she was staying in the morning, and the white streams standing on firmly perceptible for him without any idea of what he was ashamed of him, and with her face lighted up with a thrill which he was already beginning to revolutive, and he was in love with me!" she said to herself, showing her face to the princess, and the colonel said to himself, and he was afraid of him, and she could have been straight on the school, and the same moment when she ha

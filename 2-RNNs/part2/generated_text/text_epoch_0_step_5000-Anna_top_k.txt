@@ -1,0 +1,37 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 0
+Step: 5000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: Anna_top_k
+-------------------------
+Anna. "You're said to marry, and what did him. And that's the maid, isn't
+the words they was defined. It's to say shinished, but why, if you
+were not thinking. I won't," said the laborers wing to the steps which was before, and sank in a barbility.
+
+"I don't say I'm afraid to marry him, and she saw that she would not have, and I did not apply to the peasant is a dush wanted? Yes, I don't know! And
+that is merely stept from Petersburg, all one thing that had a great man in Petersburg the country that had been sering was himself. The same stopping should not be dressed that the conversation with his white brain, the wet in the day beforehand the meeting of something about, and had a difference went up to her husband had been a wedding. The condition of a man with which she had to restrain
+a secretary, and he was not dare about the way of all she sat down and to say to her.
+
+"And I'll see, I don't know."
+
+"What! what?" asked Anna's face to the point of the room; he took her.
+
+"I don't tell her."
+
+"One may speak of it, set what you didn't take it is! I have desired for them in the world, and what can be driven away," the memories
+was, and then his wife had been directions than she had already to get up and went over the conversation, which called him too that though he was also as that she was as though it was to blame for it.
+
+"I have tell me you may be, I don't understand! I dare doubt that you could shut out that. To let him suppose she has grown up," he said, and so he thought of happiness was
+setting her to his wife. And to be sure to dinner and say it, with a frightened head.
+
+"You did not know you were prayting her to say ten of it." And the point is
+the same things, and when she went on, and there was no one to district the standing of their shoulders, the peasant hopeless servant had asked him the conversation had to be dressed to himself his mother's arrival which had taken up his hand, had not been taken, and his
+memory that he had a simple former convictions,
+tha

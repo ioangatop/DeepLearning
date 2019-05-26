@@ -1,0 +1,36 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 2
+Step: 10000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: Anna_top_k
+-------------------------
+Anna, thinking of Petersburg. And its
+misfiest said that this was that these words were becoming the same thing, of the least,
+to the sick man. Sergey Ivanovitch was thinking of nothing but hardly before him.
+
+"You are a personage of it. You wouldn't and man wants to prove that, and death one thing: wart of Petersburg society, all were painting any one of the position of her position was the money for them.
+
+When he was standing with the second class. The day before Attan should have been caught in the face of
+things, to drive out with a pass on the contrary, taking off her hat once more to hear the words. Anna was not merely interested in the person or was needed. Besides this,
+as he went on surprised that they had been completely convinced that he was struck by her beauty with his brother that she said that would be unalthy and her
+criminals, and the carriage was distinctly set impossible; and so it were so already of it that one could begin.
+
+A glass out of the room.
+
+Seryozha's eyes, the conversation was setting off, and she could not help recalling what she had fancied her. And though it seemed what he had meant, but now smiling to him.
+
+"I cannot be utterly formy dear bells. On Mondey Alexey Alexandrovitch walked on thringed in the face. "I've always been absolutely nothing; but I can't. I'll tell you
+what for you. You could have given me at first, was a monshal. If you wark the remainder," and recalling All that something was himself
+unpleasant. She was not married, and that it was absolutely nearer, and that she was an agonizing earlier
+theee and all these people, that it was the same instant's settling he was always at
+hear as he had believed in him, but he did not know, and he had as he read in his head, believing was happiletor, and she could not, and with some sort of late, that that condition of his
+friendship with Vronsky to summon him to discover the conversation.
+
+"I was any longer at my sister'? Your love, only I'll be bad to sell gove on to a huge, but 

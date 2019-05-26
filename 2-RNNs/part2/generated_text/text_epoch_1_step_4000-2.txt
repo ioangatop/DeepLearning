@@ -1,0 +1,15 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 1
+Step: 4000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: 2
+-------------------------
+'jody turouslle;" suscipe 1harily artism eit,
+clos

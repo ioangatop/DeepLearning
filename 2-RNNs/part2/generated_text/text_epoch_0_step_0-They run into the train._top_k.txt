@@ -1,0 +1,14 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 0
+Step: 0
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: They run into the train._top_k
+-------------------------
+They run into the train.ta e t oe     e teee ato   t   o e o     e tt      ate   o  o t    e   tt t         t t t o  t t  a    eaeea  e     ae e    t    t  e  e e tt        t eoo e tt   at    ttt t  a t e eot   eoa      o t e  o t   t o    e  o et te  eet       te  e    ee a  o tt  tet   ee  tteao       otett e  t ea   t o    tttt      oe      ta aaa te    t t  oee eo   e       t t t    eat  tottaee        o    to e    at eee   e  e t   a  ee   et  ea     aeoae tt t a    ta ae e ttet   e  e  oeot ttta to a t t       t o      e at   t et    aao      t  e  tet ttaa a toee   ete   t t  ee   ta       e t    te  e  e   oeae     t etto   eeto    e e  ett  eeo     o    o    aetto     t  a at o  ata e  t   at  te    e ota   a oteeo   o   o eae    ee  a   o a   e tt e ot   a  e et tea   t    t        tt      e  te e        o  aet  t   t ao  o eott       att o ee e      a eette e tt o  e t o oo tet   ee     t o    e  et oet      t e  a t  ttaaeteatet e   at taa   a t eo    eo o    e  t    t  et      t  ttae  e  a   te    o to     t     t t  t    t  o  toa o  t t     o      aeoe   oeetoeet  t       tt  t tt eeoeee      oo       t tt  o t     e    o et ee toa a o   t  a      ooae   ot e    o  o o    t  to   t oe o e      tteo    oa too  at at t    oaeo e o te ee to  t tt eeete t tae  ete   oeo    e     e  tt te      et  o   ote  eta  e  e    ae  eea eeeeee        ao te  et t  o ae   e   o e     e   t  t   t  tt otaeot t              teo e eaeee tetta     o o   ao  e  oaott t t   teo  e ot eae   e ata   e   e ote    eaet      tt  t a a   ee ate eoa          t ooae  ooaoa     a t  ttea at  eee t oe  o et    o     t aa  t tt   o  ot o  t    e  et tt  e   e et e   a t e   te to eee   eo t a oa  a  et  tatt t   ot otoao  e tto    t  aete       ot eot t   o  aao   te  e te  ta       te  o     t a    ee   o  ea   tte o aoee e e   ee e  ae a t   ee  oeeota e  e       et       e    et eoa  ee  a aettt        ta tte e   ta  tt   etto o e     taoae    t t o   e t e  t et    oaeo  a    t aa   tt  ttooeoet  e      

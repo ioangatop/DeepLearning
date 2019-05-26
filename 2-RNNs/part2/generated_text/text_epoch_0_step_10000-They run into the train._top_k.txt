@@ -1,0 +1,27 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 0
+Step: 10000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: They run into the train._top_k
+-------------------------
+They run into the train.
+
+"It hat a langom, made a thrown in all," he said, and a great deal anything to be a man, to crumbled and led him away from him. He knew that that idea, with whom he would have said something to him above the same thing as he had been drunk, and all the morning that the path of the book and his eyes without thinking.
+
+"What is it? You can't believe it, but if those who lived me a minute. You are still at a man, building on the ball in the mushrooms," said Anna, looking at the same time; but at that moment was already taking his hands and smiled, sitting down on a thing. And she saw that the sofa was going off. The career with a perfect child, to write them. He was in society.
+
+"You are said about it, I've, too, I hope?" the doctor rose at the back, and the old man were since a thousand times a deficient man of the noise that had never houres, though his brother had been said, was nothing.
+And this sight of the name of his handkerchief of some seemed to her, and she wanted for a sense of delighted conversation with him about herself at once, he would never fancied that had set her best coat, had been senting him off. Stepan Arkadyevitch appreciated the conversation of their household, and a sense of disagreeable important proceedings.
+
+They had bought him, and the day and then she had been in a wide mounder on a sense of doctor to the professor, and the peasants saw the same way, and would not speak, however, by the expression of agony-for the matter of the portfolio--the serene figure with an expression of her friends with which so it seemed to him that he had seen.
+
+The mare had been to say, as he was aware of the peasants and their life was on fuftless row with his way of transition on the background had promised to be cold again, and when her daughter was sitting in the face, and black again, and his face was sticky will."
+
+This was not mind, and that this was self-deception, because he was already in the stails of the carriages, and would have liked to go to see

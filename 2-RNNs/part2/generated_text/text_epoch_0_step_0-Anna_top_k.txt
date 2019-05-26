@@ -1,0 +1,14 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 0
+Step: 0
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: Anna_top_k
+-------------------------
+Anna tn  eo eooete tee   e ote o e   o  o tooe e   e   eteat  e to  at  te      teo e t t    tet ae     o e  e  e  oe   t     at   e  e t   a oet a a   oet o te t e       t   t   t e  a o t o  o  o    t    e  t e a t   e  t t e aaeeteot eo  etet        eto     ot    o t t   e  e   e      eato eea   ea      ee e    e  o e  to          oa   o    e   et    oo   t  t ot e e e ete  t e e a  e t t  ee  oe eet  e     e    tot     a   e  aaoat ea o t tt    tt e    a  o  eao  et   to         o  eaae aeoetat o eao  o  t   t  e oa   tt oo ttaoat  e    e     t  eeo   e  eot   e  a oao t    e   t t    t  a    a           eoeta  a o ett e ttae ett eat  t  et   e e t o  ett  ot  a  e ote ae       ae      ttt   e ea   teee    t  a   e   at a  o ettt  o o a e    et a      to a     t eeoo  tatt eoo tttoe    o t  te   teeeo et t e       a  t ot t        tt   o      tt e     t ot  eet    a  o ae ett oa e ttee t e        o  oet  a       e           t o at ett    eeto    e    ao        teo o t e a  tte eoa oe t e taee t   a oaee  teea   e t o  t  e    te    ee  t   e to   t    t oe o et o   t  t e e  a t      tt  ttee   a     oe   o     a te   e         aao o   e a  et    o o  a o eat    t t  o  t  e ete  eeo  eo  o    o t    ee     t    aao     tt    tt aeate tto      ttt  e  e e  te   atta  t    ette  e t    t  o t e to et t   t o t   oo    o      t    a  t ee  te tet    aea tt  te  taaoee aeo  ttee  e    at eeo   t a a    e ea    te t at  t  e  eet t ea    e   t       eo a e    e  teo  eoet e  toot           e t a   e t e t ete  ato      oe  e   at  eeot t  a  t      a aaa  tat  a ate a t o t   ot o    at etaoaet e  t   e e a et te  ae   e t       o e    e et    at     e      e     e o o e     e  ta o  ta  aatoot   e t     taeeea t   oe e t e  eo   eot  e e o  o  e e  aeot  o eoe t t   eet    to ett e ao     o e  t e  e t      t e  eotea        ee e e  e  t  ea etee   e   ot  toe  ettt             ta e       o  tee   et ettt  o   o tatt ttt et ta e   ee   a et      eo tte o e     e  ee t  

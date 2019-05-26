@@ -1,0 +1,14 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 2
+Step: 12000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: greedy
+-------------------------
+nglish mare was a thin, still I can't tell you tha

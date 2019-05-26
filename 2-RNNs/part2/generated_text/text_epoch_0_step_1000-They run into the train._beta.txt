@@ -1,0 +1,31 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 0
+Step: 1000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: They run into the train._beta
+-------------------------
+They run into the train.
+
+"Yes, but I can the hand and did not see her to be a woman she only the stand that the same man have not been that she was not to do with him. He could not here for him, she began to the country with her brother, and the door of the face, and sat down to her husband and leaving up and cold his presented the tryance of her husband, and all the deach to him with the sumple of the parter the more simply and such a great for the crance detered.
+
+"Yes, the presenter?" she thought, and she was her but
+which he felt the face, and still move the work on a party and meaning to him to the countess of the press of difficult of the same of the sight of the little about for the princess and had been dither he could not be into a man recond to him to the bare of which the happened had been haich on the stand of the stable. "I have not been again the real to the minute. I feel in the connession of never friend came for the cheek of her position of the tried of his such and conception of the what he was conced and last and rester to him to him, and the room.
+
+"I want to a marriage have not been anyone in the deed her husband, and a man was the laborer with his scood words in the bable, and the cross had been before him, and the such a fast man had and contented and his wife.
+
+"When the concession to him, he had not to the morning the man of her to come of the princess had something the first of the she was husband.
+
+"In the work of the house. You wanted in the old concelted at the concease of the more the meaning and the morning and set her mother with him and so
+wanted him the decarily for her face of him, but still and the start the stall of his hand, and the later of the starge.
+
+"Yes, not like you to know, the land of the land words, and the should see you for the province was not the smile, and the labor country was any strange of his
+wife.
+
+"But the france in the countess and the strebble to be even bringing her side. "I have been to be a distrace of the princess of the coun

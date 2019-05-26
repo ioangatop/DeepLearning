@@ -1,0 +1,36 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 1
+Step: 11000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: They run into the train._beta
+-------------------------
+They run into the train.
+
+The landowner and the colonel shouted to Levin.
+
+"Why shouldn't it be the same thing! What do you say, and I am the thing I thought of it, I'm not to blame. I will take it on yourself about it?" said Anna, smiling.
+
+"But I was not true that they meant to call the time of the churches, and looked at his watch and the cloaks of some difficulty of interest in it, and in the correct way, but then the princess had taken to them.
+
+"Oh, yes, that's a matter of my life. And the most insignificance that it is so. I am not afraid of that you're doing. A man who has a good figure, too, that I have nothing to do with Vronsky, and I must try to conduct her. I will tell him that it's my position in love with your coffee. I shall see your pardon, you should say that the matter is over, and then I will go to beds, that I don't want to remember. If you don't want you to go on doubt. I'll go and dress and be so abroad. I know my husband that it may be taken in the country?" said Levin, and took the telegram with a smile.
+
+"I will find that there's no all women, a great deal of which he is!" said Darya Alexandrovna, smiling.
+
+"There's no hurry to another morning?" said Stepan Arkadyevitch, smiling and smiling, holding his hands in both hands, clasping her hands when she was sitting on a chair, walked twepting round the same smile.
+
+"It was not to blame? What shall we go to them, in the service?" he said to himself, and at the same time she knew that the sight of a man who was possible, and that the conversation was the truth, and the husband there was nothing she was saying. "But we can't help it."
+
+"But I believe that all the awfulness of the peasants are so pleasant?" said Stepan Arkadyevitch. "If he had been a good man, and the doctors say to him. The princess was ready to remain all the while that she had been a strange new emotion at the countess?"
+
+"What is it? You loved him so?"
+
+"I don't know what I am a pity for the thing of it."
+
+"No, I don't want to know that the races are

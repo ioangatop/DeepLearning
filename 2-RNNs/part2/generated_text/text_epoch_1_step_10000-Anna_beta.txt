@@ -1,0 +1,21 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 1
+Step: 10000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: Anna_beta
+-------------------------
+Anna Arkadyevna had been a struggle and easy tone that a woman of the party, and that he saw that he was
+only afraid that her lips were quivering. "How do you know?" she thought, and he began to speak about himself, and she could not speak to her own position. The conversation was struck by the passion for a little court and saw him at once.
+
+"I always say, that I see nothing in the world and then then, and I have to speak to you to the mother, or when you go back to the meetings? Is it true that it was stretching and distressed, and that they must be dull away from the peasants. Why didn't you give him the sole district marshal."
+
+"Yes, it was a matter of personal tone. A servant was a true for Anna, she was afraid of death, and going over the summer with the fields, and the baby said something to him, and he was sitting at the table, and sat down beside her, she gradually recognized that she was so prepared to know how to drive to the house, and he had not the first moment of hearing the time of the names of the district council most charm of a ground of my illnesses and his coachman to drive to the place to a thick lady. But he had not the same instant requirements of concealing her father, and not only the old prince too had not even put a few seconds to the peasants, the same thing that had occurred to him of her, and she was the only thing to be brought to the duties of the partnership by a good-humored day with his brother. He knew that this was something wrong in his eyes. She took his hand for the first time, and they were standing beside her. "If you are happy, but I can't see the smile. The peasants left for him to see you," said Vronsky, "but I don't know what to do."
+
+"Yes, I say it's not true," said Levin. "I should like to see you it was to be disconcerted by the peasants, divorce," Alexey Alexandrovitch said to herself, and began to talk to him about it, and also sturried to the peasants and all the world. The smoke of its brother Nikolay's life it was on

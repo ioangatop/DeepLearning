@@ -1,0 +1,14 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 0
+Step: 8000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: 0.5
+-------------------------
+ut the condition of the disconcerted beard and see

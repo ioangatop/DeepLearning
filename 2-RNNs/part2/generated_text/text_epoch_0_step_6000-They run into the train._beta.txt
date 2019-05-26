@@ -1,0 +1,29 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 0
+Step: 6000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: They run into the train._beta
+-------------------------
+They run into the train.
+
+"The conversation of the Russian peasants defense that he was already the strange than she would not be seen in the same words between the stands on the street of the stars. She had passed the second day of the stars and particularly busy was a single smile.
+
+"I can't understand what I was the new feeling of all the committee of the meadows of the world of our dreams of people."
+
+"Oh, nothing's a peasant women. I was not the only thing that is only be a heavy six of the first time I should be in the country? You are me to be in the meadow of people who was saying; I don't understand it, but I don't know how to know I don't know what I expect your common to the room," she said, looking at the door opened his head and still more than once more.
+
+"I can't meet him. I shall see them in the world on the conversation, and I am so much the same thing was completely completely coming to the mazurka, and the doctor took off his self-possessed like a great deal of proposition.
+
+"I shall be so near to you. But if you can go on to the baby. I imagine that you want to be in the government or work to see you," said Alexey Alexandrovitch, and he went into the country. He was saying that he could not help
+still left alone the stables of the peasantry of his views of the spiritual shooting would be here and the other and a delightful sense of conversation with which he had so dead to his sister was delighted and at this tone of the significance of the desire, and he had an unmistakable
+contraction with the distance of the door and fell to concluded him that she was almost at the same time to the dead before the most interest in the marsh. It was only meant to say that the service of the desire to have the storm of the conversation. He was still at the other. He was in the house was a sort
+of bringing room the other side of the window at the side of the house.
+
+"I don't understand the world were all the forest of what he was so important, and the morning was understood. All the same

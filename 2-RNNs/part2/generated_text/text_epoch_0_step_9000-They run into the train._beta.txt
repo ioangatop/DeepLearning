@@ -1,0 +1,28 @@
+
+-------------------------
+Model Config
+-------------------------
+Epoch: 0
+Step: 9000
+batch_size: 128
+seq_length: 50
+lstm_num_hidden: 512
+lstm_num_layers: 2
+dropout: 0.5
+method: They run into the train._beta
+-------------------------
+They run into the train.
+
+"I feel that he was seeing her, and he was already curlous intentions.
+
+"It's not a visitor of the races."
+
+"Yes, it's a work of strange to say that the princess had made a great deal to meet him, and again after her children who had told him that her sister-in-law, and she stopped short the door, and he had not been taken away from her new princess, and the child of his expression was wasting a most part three steps in the middle of the hall.
+
+"She is how different from the rights that have no departure. What do you think?" he asked, with the strange light suggested by his brother and the reins and her place where he had been satisfied with his wife and her son. "Anna Arkadyevna had a hundred years old and sincerely as he was at once.
+
+"I don't know, if you want to say that it's not the most utterly speaking of the same..."
+
+"Yes, I must go as a man who has been put a piefe of my fault, and has been at the time of the district council. I shall stay a little for a little, and that desire to meet him, and they were the marshal of the book and began telling her that she had been told that she was already beginning to stop her head, and she had not been put the right thing that they were playing through a starchman of her hands, and she felt with a playful story of the terrace, and that the princess saw that he was never at the sick man who had been talking about and responded with a smile. "One must not be alone with him, and I want to know how to remember you to go to see us. What do you say, that I have nothing to do with Alexey Alexandrovitch to me. They gave him a decision, or it was the same thing that I should have a great deal of the person, so that I'm glad to go to the sun, the baby was not to come to see them to come off to the most part had already closed his hands and saw by his own way he had the most night sign of the straw was a certain religion, which had been driven with his mare.
+
+"I am very glad to see you," he said, and that the most part of the s
