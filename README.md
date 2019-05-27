@@ -3,10 +3,16 @@
 [![License](http://img.shields.io/:license-mit-blue.svg)](LICENSE)
 
 ## Description
-Welcome to my __Deep Learning__ reposetory! Here you will find various
-projects from my [Deep Learning](deeplearningamsterdam.github.io) course of Artificial Intelligence MSc program of University of Amsterdam _or_ my own.
+Welcome to my __Deep Learning__ reposetory! Here you will find various projects from fully-connected neural networks, recurrent to generative models!
 
 ### __1 - Multi-Layer Percepton and Convolution Neural Networks__
+
+<p align="center">
+  <img src="readme_imgs/cnn.png" width="500" />
+</p>
+<p align="center">
+    Convolution Neural Networks.
+</p>
 
 Image classification on <a href="https://www.cs.toronto.edu/~kriz/cifar.html">CIFAR-10 dataset</a>  with two neural network architectures: multi-layer perceptrons (__MLP__) and convolutional neural networks (__CNN__).
 
@@ -41,5 +47,6 @@ We studied and implemented three of the most famous and powerful generative mode
 
 - [Assignment](3-Generative_models/assignment_3.pdf), [report](3-Generative_models/gatopoulos_report_assignment3.pdf) and [code](3-Generative_models/code) 
 
+###### _Acknowledgement - References_
 
 _The majority of the projects come from the lab assignments of the [Deep Learning](deeplearningamsterdam.github.io) course of the MSc in Artificial Intelligence at the University of Amsterdam._
