@@ -14,7 +14,7 @@ Welcome to my __Deep Learning__ reposetory! Here you will find various projects 
     Convolution Neural Networks.
 </p>
 
-Image classification on <a href="https://www.cs.toronto.edu/~kriz/cifar.html">CIFAR-10 dataset</a>  with two neural network architectures: multi-layer perceptrons (__MLP__) and convolutional neural networks (__CNN__).
+We fist focus on implimenting a Neural Network from scatch: implimented with numpy. In this way, we gain in-depth understanding of backpropagation. Then, using pytorch, we tackle an image classification task on <a href="https://www.cs.toronto.edu/~kriz/cifar.html">CIFAR-10 dataset</a>  with two neural network architectures: multi-layer perceptrons (__MLP__) and convolutional neural networks (__CNN__).
 
 - [Assignment](1-MLP_and_CNN/assignment_1.pdf), [report](1-MLP_and_CNN/gatopoulos_report_assignment1.pdf) and [code](1-MLP_and_CNN/code)
 
