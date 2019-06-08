@@ -8,7 +8,7 @@ Welcome to my __Deep Learning__ reposetory! Here you will find various projects 
 ### __1 - Multi-Layer Percepton and Convolution Neural Networks__
 
 <p align="center">
-  <img src="readme_imgs/cnn.png" width="500" />
+  <img src="readme_imgs/mlp.gif" width="500" />
 </p>
 <p align="center">
     Convolution Neural Networks.
@@ -25,7 +25,7 @@ We fist focus on implimenting a Neural Network from scatch: implimented with num
   <img src="readme_imgs/lstm_b.gif" width="500" />
 </p>
 <p align="center">
-    Generate text with LSTM.
+    Actual text that generated with LSTM which was trained on Leo Tolstoys' Anna Karenina book.
 </p>
 
 Recurrent Neural Networks (__RNN__) vs Long Short-Term Networks (__LSTM__); how they differ in modelling long-term dependencies?
