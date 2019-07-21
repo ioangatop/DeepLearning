@@ -20,13 +20,13 @@ We fist focus on implimenting a Neural Network from scatch: implimented with num
 
 
 ### __2 - Recurrent Neural Networks__
+<p align="center">
+  <img src="2-RNNs/readme_imgs/rnn.gif" width="350" />
+</p>
+<p align="center">
+    Generated text via LSTM.
+</p>
 
-<p align="center">
-  <img src="readme_imgs/lstm_b.gif" width="500" />
-</p>
-<p align="center">
-    Actual text that generated with LSTM which was trained on Leo Tolstoys' Anna Karenina book.
-</p>
 
 Recurrent Neural Networks (__RNN__) vs Long Short-Term Networks (__LSTM__); how they differ in modelling long-term dependencies?
 
@@ -37,10 +37,10 @@ After we train a LSTM network in a book, we raised the bar and _generate text_ f
 
 ### __3 - Generative Models__
 <p align="center">
-  <img src="readme_imgs/generative_model_b.gif" width="130" />
+  <img src="3-Generative_models/readme_imgs/gan_training.gif" width="500" />
 </p>
 <p align="center">
-    Digits generation via GAN.
+    GAN training progress.
 </p>
 
 We studied and implemented three of the most famous and powerful generative models, namely __Variational Auto Encoders__ (VAEs), __Generative Adversarial Networks__ (GANs) and __Generative Normalizing Flows__ (NFs). We analyzed both from theoretical and practical spectrum, we presented their mathematical framework and results for practical implementations.
